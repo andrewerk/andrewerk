@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andre Werk</h1>
-<h3 align="center">Brazilian Full Stack Developer</h3>
+<h3 align="center">Brazilian Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewerk&label=Profile%20views&color=0e75b6&style=flat" alt="andrewerk" /> </p>
 
-- 🔭 I’m currently working on **Trivia Game Project**
+- 🔭 I’m currently working on my Portfolio and studying backend software development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
