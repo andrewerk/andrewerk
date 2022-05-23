@@ -15,6 +15,5 @@
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="node" width="40" height="40"/> </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewerk)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewerk)](https://github.com/anuraghazra/github-readme-stats)
 
