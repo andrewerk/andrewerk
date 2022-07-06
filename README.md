@@ -17,5 +17,4 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewerk)](https://github.com/anuraghazra/github-readme-stats)
-![image](https://github-readme-stats.vercel.app/api?username={andrewerk})
-<img src="{https://github-readme-stats.vercel.app/api?username={andrewerk}}" />
+<img src="{https://github-readme-stats.vercel.app/api?username=andrewerk}" />
