@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewerk&label=Profile%20views&color=0e75b6&style=flat" alt="andrewerk" /> </p>
 
-- I'm ending a one-year full-time Bootcamp in software development, in which I have already developed more than 25 projects with javascript, Typescript, React, Node.js, Docker, relational databases, algorithms, RESTful APIs, software architecture, and unit tests.
-- 🔭 I’m currently working on my Portfolio and studying backend software development
+- Software Engineer working at XP Inc., one of the leading financial companies in South America. I'm currently working in a project which requires planning, development, testing and maintenance of complex and scalable backend applications using C#/.NET, event sourcing architecture, SQL and NoSQL databases and Cloud Computing.
+
+- Experience with Azure DevOps, React, Unit Testing, E2E testing, RabbitMq, Kafka and monitoring.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
